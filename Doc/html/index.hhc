@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Vickypedia"><param name="Local" value="namespace_vickypedia.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AgeCalc"><param name="Local" value="namespace_vickypedia_1_1_age_calc.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="namespace_vickypedia_1_1_age_calc_1_1_properties.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Vickypedia"><param name="Local" value="namespace_vickypedia.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AgeCalc"><param name="Local" value="namespace_vickypedia_1_1_age_calc.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="namespace_vickypedia_1_1_age_calc_1_1_properties.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AgeCalculator"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AgeCalculator"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#ac2909017bd10c90df794c57f93bb1a5d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnPropertyChanged"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#a5afa1eea24135a83c2b87195db94e180"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Recalc"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#a5eff5120f173e74fdd91263790fc64d4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Age"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#a2b528b80eb6dcc974172107e9bd5905c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AgeString"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#a3cb3960e2e644021336d887de98b743c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BirthDate"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#af711c72009535d271bddf455d624008c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CompareDate"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#a1c1500726a444cabc5faab215174986f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Days"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#ad4cab1b45eb4c238f4c8c1f3537dcb40"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Hours"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#af64a2c34270464779b1d46cc4f1c50eb"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Minutes"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#a1ad17682e872bfe52996197684d3d8a5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Months"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#af2be659e2d65286ad08a9e23e0519cdf"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Seconds"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#abc7ccee7da1deceab743a259af9b4400"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Years"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#ae3d130ff76d0baae654c5700ed3158bb"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PropertyChanged"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#acb0ae4e759499928e6c99c259fe71045"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Recalculated"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#aa022a54697451e961ec6373c82504058"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Form1"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_form1.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Form1"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_form1.html#a240b4fba90066b8cdfa5a88204815ee5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_form1.html#af7c32bb4516b04ad247c53c10b6f0e3a"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="INotifyPropertyChanged"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Vickypedia.AgeCalc.AgeCalculator"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="XtraForm"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Vickypedia.AgeCalc.Form1"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_form1.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="functions_prop.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Events"><param name="Local" value="functions_evnt.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="dir_d051c76eebdc544d9c3d734575641c72.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AssemblyInfo.cs"><param name="Local" value="_assembly_info_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Resources.Designer.cs"><param name="Local" value="_resources_8_designer_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Settings.Designer.cs"><param name="Local" value="_settings_8_designer_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AgeCalculator.cs"><param name="Local" value="_age_calculator_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AgeCalculator"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AgeCalculator"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#ac2909017bd10c90df794c57f93bb1a5d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="OnPropertyChanged"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#a5afa1eea24135a83c2b87195db94e180"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Recalc"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#a5eff5120f173e74fdd91263790fc64d4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Age"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#a2b528b80eb6dcc974172107e9bd5905c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AgeString"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#a3cb3960e2e644021336d887de98b743c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="BirthDate"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#af711c72009535d271bddf455d624008c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CompareDate"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#a1c1500726a444cabc5faab215174986f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Days"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#ad4cab1b45eb4c238f4c8c1f3537dcb40"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Hours"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#af64a2c34270464779b1d46cc4f1c50eb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Minutes"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#a1ad17682e872bfe52996197684d3d8a5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Months"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#af2be659e2d65286ad08a9e23e0519cdf"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Seconds"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#abc7ccee7da1deceab743a259af9b4400"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Years"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#ae3d130ff76d0baae654c5700ed3158bb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PropertyChanged"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#acb0ae4e759499928e6c99c259fe71045"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Recalculated"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_age_calculator.html#aa022a54697451e961ec6373c82504058"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Form1.cs"><param name="Local" value="_form1_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Form1"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_form1.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Form1"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_form1.html#a240b4fba90066b8cdfa5a88204815ee5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_form1.html#af7c32bb4516b04ad247c53c10b6f0e3a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Form1.Designer.cs"><param name="Local" value="_form1_8_designer_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Form1"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_form1.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Form1"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_form1.html#a240b4fba90066b8cdfa5a88204815ee5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_vickypedia_1_1_age_calc_1_1_form1.html#af7c32bb4516b04ad247c53c10b6f0e3a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Program.cs"><param name="Local" value="_program_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

@@ -21,6 +21,8 @@ namespace Vickypedia.AgeCalc
             DevExpress.Skins.SkinManager.EnableFormSkins();
 
             Application.Run(new Form1());
+
+
         }
     }
 }

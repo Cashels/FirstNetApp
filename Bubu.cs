@@ -7,5 +7,8 @@ namespace Vickypedia.AgeCalc
 {
     class Bubu
     {
+        public Bubu()
+        {
+        }
     }
 }
